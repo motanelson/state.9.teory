@@ -1,2 +1,1 @@
-# object.symbol.select
-selects a symbol from a object .o file
+c3 language tree view
