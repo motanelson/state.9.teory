@@ -1,1 +1,1 @@
-state 9 teory
+put limits to you numbers down and up numbers
