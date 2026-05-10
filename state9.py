@@ -7,7 +7,7 @@ def state9_change(state9):
     return state9     
 
 
-print("\033c\033[40;37m\nquantum emulator of a state9\n")
+print("\033c\033[40;37m\nemulator of a state9\n")
 states=0
 for a in range (20):
      print(states)
